@@ -1,0 +1,35 @@
+﻿  GameScene.cpp
+C:\Users\pasha\source\repos\practice8\practice8\GameScene.cpp(82,97): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\pasha\source\repos\practice8\practice8\GameScene.cpp(82,97): warning C4244:         with
+C:\Users\pasha\source\repos\practice8\practice8\GameScene.cpp(82,97): warning C4244:         [
+C:\Users\pasha\source\repos\practice8\practice8\GameScene.cpp(82,97): warning C4244:             T=float
+C:\Users\pasha\source\repos\practice8\practice8\GameScene.cpp(82,97): warning C4244:         ]
+C:\Users\pasha\source\repos\practice8\practice8\GameScene.cpp(82,79): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\pasha\source\repos\practice8\practice8\GameScene.cpp(82,79): warning C4244:         with
+C:\Users\pasha\source\repos\practice8\practice8\GameScene.cpp(82,79): warning C4244:         [
+C:\Users\pasha\source\repos\practice8\practice8\GameScene.cpp(82,79): warning C4244:             T=float
+C:\Users\pasha\source\repos\practice8\practice8\GameScene.cpp(82,79): warning C4244:         ]
+  GameView.cpp
+C:\Users\pasha\source\repos\practice8\practice8\GameView.cpp(15,75): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+C:\Users\pasha\source\repos\practice8\practice8\GameView.cpp(15,75): warning C4244:         with
+C:\Users\pasha\source\repos\practice8\practice8\GameView.cpp(15,75): warning C4244:         [
+C:\Users\pasha\source\repos\practice8\practice8\GameView.cpp(15,75): warning C4244:             T=int
+C:\Users\pasha\source\repos\practice8\practice8\GameView.cpp(15,75): warning C4244:         ]
+C:\Users\pasha\source\repos\practice8\practice8\GameView.cpp(15,75): warning C4244:         and
+C:\Users\pasha\source\repos\practice8\practice8\GameView.cpp(15,75): warning C4244:         [
+C:\Users\pasha\source\repos\practice8\practice8\GameView.cpp(15,75): warning C4244:             T=float
+C:\Users\pasha\source\repos\practice8\practice8\GameView.cpp(15,75): warning C4244:         ]
+C:\Users\pasha\source\repos\practice8\practice8\GameView.cpp(15,61): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+C:\Users\pasha\source\repos\practice8\practice8\GameView.cpp(15,61): warning C4244:         with
+C:\Users\pasha\source\repos\practice8\practice8\GameView.cpp(15,61): warning C4244:         [
+C:\Users\pasha\source\repos\practice8\practice8\GameView.cpp(15,61): warning C4244:             T=int
+C:\Users\pasha\source\repos\practice8\practice8\GameView.cpp(15,61): warning C4244:         ]
+C:\Users\pasha\source\repos\practice8\practice8\GameView.cpp(15,61): warning C4244:         and
+C:\Users\pasha\source\repos\practice8\practice8\GameView.cpp(15,61): warning C4244:         [
+C:\Users\pasha\source\repos\practice8\practice8\GameView.cpp(15,61): warning C4244:             T=float
+C:\Users\pasha\source\repos\practice8\practice8\GameView.cpp(15,61): warning C4244:         ]
+  main.cpp
+  tinyxml2.cpp
+  TmxLevel.cpp
+  Создание кода...
+  practice8.vcxproj -> C:\Users\pasha\source\repos\practice8\x64\Debug\practice8.exe
