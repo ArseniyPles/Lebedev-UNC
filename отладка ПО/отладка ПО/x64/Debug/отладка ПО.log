@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\pasha\source\repos\отладка ПО\отладка ПО\main.cpp(16,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\pasha\source\repos\отладка ПО\отладка ПО\main.cpp(22,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  отладка ПО.vcxproj -> C:\Users\pasha\source\repos\отладка ПО\x64\Debug\отладка ПО.exe
