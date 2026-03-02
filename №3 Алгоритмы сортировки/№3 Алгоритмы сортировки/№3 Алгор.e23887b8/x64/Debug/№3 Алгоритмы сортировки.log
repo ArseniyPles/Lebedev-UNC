@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\pasha\source\repos\№3 Алгоритмы сортировки\main.cpp(34,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\pasha\source\repos\№3 Алгоритмы сортировки\main.cpp(60,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\pasha\source\repos\№3 Алгоритмы сортировки\main.cpp(87,30): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\pasha\source\repos\№3 Алгоритмы сортировки\main.cpp(111,62): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+      C:\Users\pasha\source\repos\№3 Алгоритмы сортировки\main.cpp(111,62):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\pasha\source\repos\№3 Алгоритмы сортировки\main.cpp(111,5):
+          выполняется компиляция ссылки на экземпляр шаблон функции "auto measureTime::<lambda_1>::operator ()<measureTime::<lambda_2>>(const std::string &,_T1) const"
+          with
+          [
+              _T1=measureTime::<lambda_2>
+          ]
+          C:\Users\pasha\source\repos\№3 Алгоритмы сортировки\main.cpp(105,9):
+          выполняется компиляция ссылки на экземпляр шаблон функции "auto measureTime::<lambda_2>::operator ()<std::vector<int,std::allocator<int>>>(_T1 &) const"
+          with
+          [
+              _T1=std::vector<int,std::allocator<int>>
+          ]
+  
+  №3 Алгоритмы сортировки.vcxproj -> C:\Users\pasha\source\repos\№3 Алгоритмы сортировки\x64\Debug\№3 Алгоритмы сортировки.exe
